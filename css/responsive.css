@@ -1,0 +1,482 @@
+@media screen and (min-width: 1340px) {
+    .laptop-container {
+        position: absolute;
+        width: 912px;
+        height: 553px;
+        bottom: 4vh;
+        right: 60px;
+    }
+    .screen-black {
+        width: 682px;
+        left: 115px;
+        height: 368px;
+    }
+    .black-screen {
+        height: 437px;
+    }
+    .info {
+        right: 738px;
+    }
+    .arrows {
+        right: 800px;
+    }
+    .zoom {
+        display: none;
+    }
+    .number {
+        bottom: -25px;
+    }
+    .cross-mobile {
+        left: -62px;
+        top: 306px;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    .laptop-container {
+        width: 1207px;
+        height: 699px;
+    }
+    .screen-black {
+        width: 866px;
+        left: 145px;
+        top: 37px;
+        height: 470px;
+    }
+    .black-screen {
+        height: 548px;
+    }
+    .info {
+        right: 929px;
+        top: 419px;
+    }
+    .arrows {
+        right: 993px;
+        top: 480px;
+    }
+    .cross-mobile {
+        left: -69px;
+        top: 325px;
+    }
+    .button-full-portfolio {
+        left: 230px;
+        top: 290px;
+    }
+    .number {
+        bottom: -55px;
+    }
+}
+
+@media screen and (max-width: 1340px) {
+    .cross-mobile {
+        left: -46px;
+        top: 330px;
+    }
+}
+
+@media screen and (max-width: 1217px) {
+    .number {
+        font-size: 160px;
+        bottom: -50px;
+        left: -310px;
+    }
+}
+
+@media screen and (max-width: 1170px) {
+    .number {
+        display: none;
+    }
+    .button-right {
+        position: relative;
+        top: 25px;
+    }
+    .text-footer {
+        width: 20vw;
+        font-size: 14px;
+    }
+    .button-full-portfolio {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1070px) {
+    .screen-black {
+        width: 524px;
+        height: 332px;
+        top: 23px;
+        left: 88px;
+    }
+    .laptop-container {
+        position: absolute;
+        width: 700px;
+        height: 483px;
+        bottom: 4vh;
+        right: 60px;
+    }
+    #info {
+        top: 13vh;
+        right: 706px;
+    }
+    footer {
+        width: 86vw;
+    }
+    .top-arrow {
+        position: absolute;
+        bottom: 25px;
+        left: 92vw;
+    }
+    .info {
+        top: 225px;
+        right: 560px;
+    }
+    .mac-nav {
+        bottom: 60px;
+    }
+    .arrows {
+        right: 623px;
+        top: 284px;
+    }
+    .cross-mobile {
+        left: -42px;
+        top: 280px;
+    }
+}
+
+@media screen and (max-width: 975px) {
+    .nav-content,
+    #nav-scroll,
+    .social,
+    .color-square,
+    .black-line {
+        display: none;
+    }
+    .start-screen {
+        background: none;
+    }
+    .button-start {
+        top: 50%;
+    }
+    .laptop-container {
+        position: absolute;
+        width: 630px;
+        height: 483px;
+        bottom: 0vh;
+        right: 30px;
+        top: 130px;
+    }
+    .screen-black {
+        width: 472px;
+        height: 299px;
+        top: 20px;
+        left: 79px;
+    }
+    #info {
+        top: 9vh;
+        right: 605px;
+    }
+    .nav-lang-content span {
+        display: none;
+    }
+    .nav-lang-content a {
+        position: relative;
+        left: -15px;
+        bottom: 8px;
+    }
+    .card-container {
+        width: 350px;
+        height: 194px;
+    }
+    .card-line {
+        top: 130px;
+        left: 60px;
+    }
+    #burger {
+        display: block;
+    }
+    #projects {
+        height: 80vh;
+        min-height: 0;
+    }
+    .info {
+        top: 175px;
+        right: 510px;
+    }
+    .info-line {
+        right: 8px;
+    }
+    .footer-info-row {
+        display: block;
+    }
+    .top-arrow {
+        display: none;
+    }
+    .top-cover {
+        right: 15px;
+        width: 55px;
+    }
+    .column-content {
+        padding: 100px 0px 0px 100px;
+        width: auto;
+    }
+    .column-content:nth-child(1) {
+        padding: 50px 0px 0px 100px;
+    }
+    footer {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        height: auto;
+    }
+    .text-footer {
+        width: 30vw;
+        margin-bottom: 100px;
+    }
+    .copyright {
+        width: -webkit-max-content;
+        width: -moz-max-content;
+        width: max-content;
+        left: 430px;
+        top: 430px;
+    }
+    .footer-info {
+        width: auto;
+    }
+    .footer-column {
+        width: -webkit-max-content;
+        width: -moz-max-content;
+        width: max-content;
+        min-width: 0;
+    }
+    .footer-column:first-child {
+        border-right: none;
+    }
+    .list:nth-child(1) {
+        padding-top: 35vh;
+    }
+    .main-program {
+        top: 575px;
+    }
+    .arrows {
+        right: 561px;
+        top: 250px;
+    }
+    .phone-show {
+        width: 195px;
+        height: 390px;
+        bottom: -40px;
+    }
+    .cross-mobile {
+        left: -32px;
+        top: 210px;
+    }
+}
+
+@media screen and (max-width: 880px) {
+    .laptop-container,
+    #info {
+        display: none;
+    }
+    .button-portfolio {
+        display: block;
+    }
+    .list {
+        padding-left: 50px;
+        padding-top: 2vh;
+    }
+    .main-program {
+        top: 320px;
+        right: 50px;
+    }
+    #about-me {
+        display: block;
+    }
+    .left-column {
+        height: auto;
+        width: 100vw;
+        min-width: 0;
+    }
+    .right-column {
+        width: 100vw;
+        margin-top: 130px;
+    }
+    .text-about {
+        padding-right: 50px;
+        margin-right: 0;
+    }
+    .buttons-cv {
+        margin-top: 0vh;
+    }
+    .list {
+        padding-left: 100px;
+        padding-top: 2vh !important;
+    }
+    .main-program {
+        right: 100px;
+        top: 140px;
+    }
+    .buttons-cv {
+        padding-left: 50px;
+    }
+    .text-about p {
+        margin: 50px;
+    }
+    .column-content {
+        padding: 50px 0px 0px 100px !important;
+    }
+    footer {
+        display: block;
+        height: auto;
+    }
+    .text-footer {
+        width: 60vw;
+        margin-bottom: 100px;
+    }
+    .copyright {
+        left: 0;
+        top: 730px;
+    }
+    .footer-info {
+        width: auto;
+    }
+    .footer-column {
+        width: -webkit-max-content;
+        width: -moz-max-content;
+        width: max-content;
+        min-width: 0;
+    }
+    .footer-column:first-child {
+        border-right: none;
+    }
+    .list:nth-child(1) {
+        padding-top: 35vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .nav-content,
+    #nav-scroll,
+    .social,
+    .color-square,
+    .laptop-container,
+    .black-line,
+    #info {
+        display: none;
+    }
+    .load-square {
+        width: 100px;
+        height: 100px;
+    }
+    .loading-par {
+        font-size: 20px;
+        letter-spacing: 20px;
+    }
+    .nav-lang-content span {
+        display: none;
+    }
+    .nav-lang-content a {
+        position: relative;
+        left: -15px;
+        bottom: 8px;
+    }
+    .card-container {
+        width: 280px;
+        height: 155px;
+    }
+    .card-line {
+        top: 104px;
+        left: 40px;
+    }
+    .gray-square {
+        bottom: 8px;
+    }
+    #burger {
+        display: block;
+    }
+    .list {
+        padding-left: 50px;
+        padding-top: 10vh !important;
+    }
+    .main-program {
+        top: 440px;
+        right: 50px;
+    }
+    #about-me {
+        display: block;
+    }
+    .left-column {
+        height: -webkit-fill-available;
+        width: 100vw;
+        min-width: 0;
+    }
+    .right-column {
+        width: 100vw;
+        margin-top: 150px;
+    }
+    .text-about {
+        padding-right: 50px;
+        margin-right: 0;
+    }
+    .text-about p {
+        margin: 0px;
+    }
+    .buttons-cv {
+        margin-top: 0vh;
+    }
+    .buttons-cv {
+        padding-left: 0px;
+    }
+    #projects {
+        height: 80vh;
+        min-height: 0;
+    }
+    .button-portfolio {
+        display: block;
+    }
+    .footer-info-row {
+        display: block;
+    }
+    .top-arrow {
+        display: none;
+    }
+    .top-cover {
+        right: 15px;
+        width: 55px;
+    }
+    .column-content {
+        padding: 100px 0px 0px 50px !important;
+        width: auto;
+    }
+    .column-content:nth-child(1) {
+        padding: 50px 0px 0px 50px !important;
+    }
+    footer {
+        display: block;
+        height: auto;
+    }
+    .text-footer {
+        width: 60vw;
+        margin-bottom: 100px;
+    }
+    .copyright {
+        left: 0;
+        top: 775px;
+    }
+    .footer-info {
+        width: auto;
+    }
+    .footer-column {
+        width: -webkit-max-content;
+        width: -moz-max-content;
+        width: max-content;
+        min-width: 0;
+    }
+    .footer-column:first-child {
+        border-right: none;
+    }
+    .button {
+        width: 210px;
+    }
+    #about-me {
+        margin-top: 20px;
+    }
+}
